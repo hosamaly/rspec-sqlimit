@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Dummy::Application.configure do |config|
   dummy        = File.expand_path "../..", __FILE__
   database_yml = File.join(dummy, "config/database.yml")

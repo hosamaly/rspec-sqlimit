@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module RSpec::SQLimit
   class Counter
     attr_reader :queries, :matcher

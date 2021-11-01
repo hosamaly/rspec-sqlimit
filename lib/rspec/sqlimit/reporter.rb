@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module RSpec::SQLimit
   class Reporter
     attr_reader :matcher

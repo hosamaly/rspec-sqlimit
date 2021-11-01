@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Gem::Specification.new do |gem|
   gem.name        = "rspec-sqlimit"
   gem.version     = "0.0.4"

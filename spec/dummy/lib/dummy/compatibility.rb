@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # ActiveRecord::Migration['5.0'] syntax is not supported prior to Rails 5.0
 # This snippet supports it on Rails 4.2
 unless ActiveRecord::Migration.respond_to?(:[])
